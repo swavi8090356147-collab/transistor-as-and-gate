@@ -4,4 +4,4 @@ Digital Electronics Project - Transistor as an AND Gate
 
 - Name: Swati Pal
 - Roll Number: 202510101150170
-- GitHub Profile: @profprabhat7-lang
+- - GitHub Profile: [@profprabhat7-lang](https://github.com/profprabhat7-lang)
